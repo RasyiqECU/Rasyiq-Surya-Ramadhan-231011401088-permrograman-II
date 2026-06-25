@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/AplikasiToko.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/data/DbConnection.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/model/Barang.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/model/Customer.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/model/Kategori.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/model/Penjualan.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/MainFrame.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/Theme.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/UIFactory.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/panel/BarangPanel.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/panel/CustomerPanel.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/panel/DashboardPanel.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/panel/KategoriPanel.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/panel/PenggunaPanel.java</file>
+            <file>file:/C:/Users/Pongo/Documents/semester%206/pemrograman/AplikasiToko/src/aplikasitoko/ui/panel/PenjualanPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
